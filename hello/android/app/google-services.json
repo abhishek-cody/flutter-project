@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162884840133",
+    "project_id": "hello-13dc1",
+    "storage_bucket": "hello-13dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162884840133:android:14fc1e670bfc9b3d4c1eac",
+        "android_client_info": {
+          "package_name": "com.abhishekcody.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162884840133-p5utv692pgttuqumq1288ee52ole7366.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdgQeVTXQc4yfZpeiD_MoJFFJmPblVtfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162884840133-p5utv692pgttuqumq1288ee52ole7366.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
